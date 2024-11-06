@@ -36,10 +36,9 @@ Project Insights
 
 This dashboard highlights key attrition factors like job roles, salary levels, age groups, and tenure. Insights help inform retention strategies and improve workforce engagement.
 
+https://github.com/user-attachments/assets/aa602b37-520c-4e20-9a61-92e2f0b0aef6
 
 
-
-https://github.com/user-attachments/assets/6bcb1b4c-7f4e-4b32-b5ee-317b891b52e1
 
 
 
